@@ -1,6 +1,7 @@
 .venv
 
-reward_model/
+reward_models/
+reinforce_models/
 
 wandb/
 
