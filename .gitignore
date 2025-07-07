@@ -2,6 +2,7 @@
 
 reward_models/
 reinforce_models/
+gen_models/
 
 wandb/
 
